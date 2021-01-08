@@ -1,7 +1,7 @@
 # OOP-Dart
 
 
-=============================================== Tambahan =====================================
+================================ Tambahan ================================
 
  + Untuk Interface ia memaksakan untuk semua class yang mengimplamentasi (implement) harus meng override (@override) methode yang ada
  + untuk (Mixing) ia menambahkan seperti plugin dimana class yang mengmix (with) tidak harus meng override tetapii ia juga bisa meng override methodenya
